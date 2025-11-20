@@ -1,0 +1,11 @@
+; Cleaning Robot Plan
+1: (pick-trash robot1 classroom)
+2: (sweep robot1 classroom)
+3: (mop robot1 classroom)
+4: (move robot1 classroom cafeteria)
+5: (drop-trash robot1 cafeteria)
+6: (pick-trash robot1 cafeteria)
+7: (drop-trash robot1 cafeteria)
+8: (sweep robot1 cafeteria)
+9: (mop robot1 cafeteria)
+
